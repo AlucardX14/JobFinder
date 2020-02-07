@@ -1,0 +1,22 @@
+﻿@using Newtonsoft.Json;
+@using AttendanceApp.Models;
+
+@{
+    Employee userinfo = JsonConvert.DeserializeObject<Employee>(User.Identity.Name);
+
+    if (userinfo != null)
+    {
+        if (userinfo.UserRoles == "Admin")
+        {
+            <meta http-equiv="Refresh" content="0; url=/Post/Management" />
+        }
+        else
+        {
+            <meta http-equiv="Refresh" content="0; url=/Post/Index" />
+        }
+    }
+    else
+    {
+        <meta http-equiv="Refresh" content="0; url=/Post/Index" />
+    }
+}

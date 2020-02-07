@@ -1,0 +1,33 @@
+﻿@model AttendanceApp.Models.GlobalParams
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Global Settings</h2>
+
+@if (Model != null)
+{
+    <table class="table">
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.MainItemsCap)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.CategoryPagingSize)
+            </td>
+            <th></th>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(model => model.MainItemsCap)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.CategoryPagingSize)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.ID })
+            </td>
+        </tr>
+    </table>
+}

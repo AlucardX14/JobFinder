@@ -1,0 +1,232 @@
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\ApplicationInsights.config
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\csc.exe
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\csc.exe.config
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\csc.rsp
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\csi.exe
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\csi.rsp
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\System.AppContext.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\System.Collections.Immutable.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\System.IO.FileSystem.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\System.Reflection.Metadata.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\vbc.exe
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\vbc.exe.config
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\vbc.rsp
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\VBCSCompiler.exe
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\roslyn\VBCSCompiler.exe.config
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\AttendanceApp.dll.config
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\AttendanceApp.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\AttendanceApp.pdb
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Antlr3.Runtime.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\EntityFramework.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\EntityFramework.SqlServer.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.DependencyCollector.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.Web.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.WindowsServer.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.ApplicationInsights.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.Web.Infrastructure.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Newtonsoft.Json.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.Helpers.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.Mvc.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.Optimization.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.Razor.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.WebPages.Deployment.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.WebPages.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.WebPages.Razor.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\WebGrease.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\EntityFramework.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\EntityFramework.SqlServer.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.Helpers.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.Mvc.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.Optimization.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.Razor.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.WebPages.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.WebPages.Deployment.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\System.Web.WebPages.Razor.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Antlr3.Runtime.pdb
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Newtonsoft.Json.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.ApplicationInsights.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.DependencyCollector.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.WindowsServer.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\Microsoft.AI.Web.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.csprojResolveAssemblyReference.cache
+I:\Learn\MVC\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.pdb
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\PagedList.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\PagedList.Mvc.dll
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\PagedList.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\bin\PagedList.Mvc.xml
+I:\Learn\MVC\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.Migrations.InitialCreate.resources
+I:\Learn\MVC\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\obj\Debug\AttendanceApp.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Downloads\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\obj\Debug\AttendanceApp.dll
+C:\Users\Ahmed\Downloads\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\obj\Debug\AttendanceApp.pdb
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\ApplicationInsights.config
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\csc.exe
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\csc.exe.config
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\csc.rsp
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\csi.exe
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\csi.rsp
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\System.AppContext.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\System.Collections.Immutable.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\System.IO.FileSystem.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\vbc.exe
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\vbc.exe.config
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\vbc.rsp
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\VBCSCompiler.exe
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\roslyn\VBCSCompiler.exe.config
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\AttendanceApp.dll.config
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\AttendanceApp.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\AttendanceApp.pdb
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Antlr3.Runtime.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\EntityFramework.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\EntityFramework.SqlServer.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.Web.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.WindowsServer.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.ApplicationInsights.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.Web.Infrastructure.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Newtonsoft.Json.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\PagedList.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\PagedList.Mvc.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.Helpers.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.Mvc.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.Optimization.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.Razor.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.WebPages.Deployment.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.WebPages.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.WebPages.Razor.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\WebGrease.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\EntityFramework.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\EntityFramework.SqlServer.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\PagedList.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\PagedList.Mvc.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.Helpers.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.Mvc.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.Optimization.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.Razor.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.WebPages.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.WebPages.Deployment.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\System.Web.WebPages.Razor.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Antlr3.Runtime.pdb
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Newtonsoft.Json.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.ApplicationInsights.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.WindowsServer.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\bin\Microsoft.AI.Web.xml
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\obj\Debug\AttendanceApp.csprojAssemblyReference.cache
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\obj\Debug\AttendanceApp.csproj.CopyComplete
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\obj\Debug\AttendanceApp.dll
+C:\workspace\MVC-EntityFramework-Attendance-Application-master\AttendanceApp\obj\Debug\AttendanceApp.pdb
+C:\workspace\Job Board\AttendanceApp\bin\ApplicationInsights.config
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\csc.exe
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\csc.exe.config
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\csc.rsp
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\csi.exe
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\csi.rsp
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\System.AppContext.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\System.Collections.Immutable.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\System.IO.FileSystem.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\vbc.exe
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\vbc.exe.config
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\vbc.rsp
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\VBCSCompiler.exe
+C:\workspace\Job Board\AttendanceApp\bin\roslyn\VBCSCompiler.exe.config
+C:\workspace\Job Board\AttendanceApp\bin\AttendanceApp.dll.config
+C:\workspace\Job Board\AttendanceApp\bin\AttendanceApp.dll
+C:\workspace\Job Board\AttendanceApp\bin\AttendanceApp.pdb
+C:\workspace\Job Board\AttendanceApp\bin\Antlr3.Runtime.dll
+C:\workspace\Job Board\AttendanceApp\bin\EntityFramework.dll
+C:\workspace\Job Board\AttendanceApp\bin\EntityFramework.SqlServer.dll
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.Web.dll
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.WindowsServer.dll
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.ApplicationInsights.dll
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.Web.Infrastructure.dll
+C:\workspace\Job Board\AttendanceApp\bin\Newtonsoft.Json.dll
+C:\workspace\Job Board\AttendanceApp\bin\PagedList.dll
+C:\workspace\Job Board\AttendanceApp\bin\PagedList.Mvc.dll
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.Helpers.dll
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.Mvc.dll
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.Optimization.dll
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.Razor.dll
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.WebPages.Deployment.dll
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.WebPages.dll
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.WebPages.Razor.dll
+C:\workspace\Job Board\AttendanceApp\bin\WebGrease.dll
+C:\workspace\Job Board\AttendanceApp\bin\EntityFramework.xml
+C:\workspace\Job Board\AttendanceApp\bin\EntityFramework.SqlServer.xml
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\workspace\Job Board\AttendanceApp\bin\PagedList.xml
+C:\workspace\Job Board\AttendanceApp\bin\PagedList.Mvc.xml
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.Helpers.xml
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.Mvc.xml
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.Optimization.xml
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.Razor.xml
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.WebPages.xml
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.WebPages.Deployment.xml
+C:\workspace\Job Board\AttendanceApp\bin\System.Web.WebPages.Razor.xml
+C:\workspace\Job Board\AttendanceApp\bin\Antlr3.Runtime.pdb
+C:\workspace\Job Board\AttendanceApp\bin\Newtonsoft.Json.xml
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.ApplicationInsights.xml
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.WindowsServer.xml
+C:\workspace\Job Board\AttendanceApp\bin\Microsoft.AI.Web.xml
+C:\workspace\Job Board\AttendanceApp\obj\Debug\AttendanceApp.csprojAssemblyReference.cache
+C:\workspace\Job Board\AttendanceApp\obj\Debug\AttendanceApp.csproj.CopyComplete
+C:\workspace\Job Board\AttendanceApp\obj\Debug\AttendanceApp.dll
+C:\workspace\Job Board\AttendanceApp\obj\Debug\AttendanceApp.pdb

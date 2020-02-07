@@ -1,0 +1,66 @@
+﻿@model AttendanceApp.Models.IndexPostViewModel
+
+@{
+    ViewBag.Title = "Jobs List";
+}
+
+<h2>Jobs Available</h2>
+
+@if (Model != null)
+{
+    var groups = Model.Posts.GroupBy(item => item.Category);
+    var itemListCap = Model.GlobalParams.MainItemsCap;
+
+    foreach (var group in groups)
+    {
+        var itemListCount = 0;
+    <h3>
+        @Html.ActionLink(group.First().Category, "CategoryFilter", new { category = group.First().Category })
+    </h3>
+
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Posts.FirstOrDefault().Location)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Posts.FirstOrDefault().Position)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Posts.FirstOrDefault().Company)
+                    </th>
+                </tr>
+            </thead>
+            @foreach (var item in group)
+            {
+                <tbody>
+                    <tr onclick="location.href = '@(Url.Action("Details", "Post", new { id = item.ID }))'">
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Location)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Position)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Company)
+                        </td>
+                    </tr>
+                </tbody>
+                itemListCount++;
+
+                if (itemListCount >= itemListCap)
+                {
+                    <tr>
+                        <td>
+                            @Html.ActionLink("Show all", "CategoryFilter", new { category = item.Category })
+                        </td>
+                    </tr>
+                    break;
+                }
+            }
+        </table>
+    }
+}
+
+
